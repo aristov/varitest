@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Avenir Next Variable';
+    src: url('https://cdn.rawgit.com/Monotype/Monotype_prototype_variable_fonts/f8067a0e/AvenirNext/AvenirNext_Variable.ttf') format('truetype');
+}
+body {
+    font-family: 'Avenir Next Variable', sans-serif;
+}
+#test
+{
+    font-size: 100px;
+    cursor: move;
+}
